@@ -45,27 +45,27 @@ A new Flutter project.
 
 
 # Screenshot 2
-<img height="400" alt="Screenshot2" src="https://github.com/aakashx58/musicplayer/assets/106716824/2f100fb7-2fff-46e3-9f9c-c1846ef249cb">
+<img height="400" src="https://github.com/aakashx58/musicplayer/assets/106716824/2f100fb7-2fff-46e3-9f9c-c1846ef249cb">
 
 
 # Screenshot 3
-<img height="400" alt="Screenshot3" src="https://github.com/aakashx58/musicplayer/assets/106716824/cfd14342-589d-4da7-a245-ee0a3f3a4f79">
+<img height="400" src="https://github.com/aakashx58/musicplayer/assets/106716824/cfd14342-589d-4da7-a245-ee0a3f3a4f79">
 
 
 # Screenshot 4
-<img height="400" alt="Screenshot4" src="https://github.com/aakashx58/musicplayer/assets/106716824/8e62e150-28e0-442c-b10c-0b274bd5c136">
+<img height="400" src="https://github.com/aakashx58/musicplayer/assets/106716824/8e62e150-28e0-442c-b10c-0b274bd5c136">
 
 
 # Screenshot 5
-<img height="400" alt="Screenshot5" src="https://github.com/aakashx58/musicplayer/assets/106716824/b7a7495b-02a6-4ef0-acf2-2f3d0a07edc1">
+<img height="400" src="https://github.com/aakashx58/musicplayer/assets/106716824/b7a7495b-02a6-4ef0-acf2-2f3d0a07edc1">
 
 
 # Screenshot 6
-<img height="400" alt="Screenshot6" src="https://github.com/aakashx58/musicplayer/assets/106716824/8eda832e-b3d9-4fe2-8012-0adaadb56d97">
+<img height="400" src="https://github.com/aakashx58/musicplayer/assets/106716824/8eda832e-b3d9-4fe2-8012-0adaadb56d97">
 
 
 # Screenshot 7
-<img height="400" alt="Screenshot7" src="https://github.com/aakashx58/musicplayer/assets/106716824/86d1588a-da4f-40ad-bc1c-53d0612f0ea1">
+<img height="400" src="https://github.com/aakashx58/musicplayer/assets/106716824/86d1588a-da4f-40ad-bc1c-53d0612f0ea1">
 
 
 <a href="https://github.com/Mirzaazmath/music_player_flutter/blob/main/assets/output/audio_player.apk" target="_blank" style="background: #1B82EC; border-radius: 5px; font-size: 13px; line-height: 15px; text-align: center; color: #FFFFFF; padding: 8px 16px; outline: none; border: none;">Download APK</a>
